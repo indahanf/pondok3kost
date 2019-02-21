@@ -1,0 +1,32 @@
+.carousel-inner img {
+    width: 100%;
+}
+
+.container {
+    margin-left: 50%;
+    float: center;
+}
+
+#fakeimg {
+    margin: auto;
+    height: 150px;
+    width: 150px;
+    background: #eaeaea;
+    margin: 20px;
+    text-align: center;
+    border-radius: 25px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.page-footer {
+    background-color: aquamarine;
+    
+}
+
+.container-fluid {
+    margin-left: 20%;
+    margin-right: 20%;
+}
